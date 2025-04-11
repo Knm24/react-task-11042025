@@ -1,0 +1,32 @@
+:root {
+  --color-text-secondary: #757575;
+  --color-text-main: #1F1F1F;
+  --color-icon-light: #C2C2C2;
+  --color-success-text: #328845;
+  --color-active-primary: #F14635;
+  --color-element-border: #F2F2F2;
+  --color-back-layer3: #FFFFFF;
+  --color-success-back: #D5EEDB;
+  --color-back-layer1: #FFFFFF;
+  --color-text-additional: #8F8F8F;
+  --color-action-primary: #0075CA;
+  --color-icon-main: #757575;
+  --color-action-secondary: #A7C4F2;
+  --color-icon-brand: #F2F2F2;
+  --color-element-fill-light: #F2F2F2;
+  --color-back-base: #F2F2F2;
+  --color-text-inverse: #FFFFFF;
+}
+
+body {
+  margin: 0;
+  font-family:'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  background-color: var(--color-back-base);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

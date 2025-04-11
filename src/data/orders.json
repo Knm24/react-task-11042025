@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "number": "№ 123456",
+    "name": "Advanti T02-C03 универс.красный, черный",
+    "date": "2023-10-01",
+    "status": "delivered"
+  },
+  {
+    "id": 2,
+    "number": "№ 789101",
+    "name": "TechPro X1 ноутбук, серебристый",
+    "date": "2023-10-02",
+    "status": "pending"
+  },
+  {
+    "id": 3,
+    "number": "№ 112131",
+    "name": "SmartWatch Z3 черный",
+    "date": "2023-10-03",
+    "status": "cancelled"
+  }
+]

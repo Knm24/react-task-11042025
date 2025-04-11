@@ -1,0 +1,25 @@
+:root {
+  --color-back-base: #f2f2f2;
+  --color-back-layer1: #ffffff;
+  --color-back-layer3: #fafafa;
+  --color-text-main: #000000;
+  --color-text-secondary: #757575;
+  --color-text-additional: #a3a3a3;
+  --color-text-inverse: #ffffff;
+  --color-element-fill-light: #f2f2f2;
+  --color-element-border: #e0e0e0;
+  --color-active-primary: #f14635;
+  --color-action-primary: #0075ca;
+  --color-success-back: #e0f7e9;
+  --color-success-text: #2e7d32;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: var(--color-back-base);
+}
+
+.App {
+  min-height: 100vh;
+}

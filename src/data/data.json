@@ -1,0 +1,90 @@
+[
+    {
+      "userId": "1",
+      "user": {
+        "name": "Алтынбике Абилькаримова Алпысбаевна",
+        "birthDate": "18.04.1994",
+        "age": 30,
+        "city": "Алматы",
+        "status": "inactive"
+      },
+      "stores": [
+        {
+          "storeId": "1",
+          "name": "ИП Liverpool",
+          "status": "active",
+          "kassa": "connected",
+          "qualityMetrics": {
+            "qualityRating": "4.5 ★",
+            "qualityPoints": "144 оценок",
+            "cancellationRate": "4.2%",
+            "cancellationLabel": "Доля отмен"
+          },
+          "deliveryOptions": ["Самовывоз", "Моя доставка", "Экспресс-доставка"]
+        },
+        {
+          "storeId": "2",
+          "name": "ИП Manchester",
+          "status": "inactive",
+          "kassa": "disconnected",
+          "qualityMetrics": {
+            "qualityRating": "4.0 ★",
+            "qualityPoints": "120 оценок",
+            "cancellationRate": "5.1%",
+            "cancellationLabel": "Доля отмен"
+          },
+          "deliveryOptions": ["Самовывоз", "Моя доставка"]
+        }
+      ]
+    },
+    {
+      "userId": "2",
+      "user": {
+        "name": "John Doe",
+        "birthDate": "15.06.1985",
+        "age": 39,
+        "city": "Нур-Султан",
+        "status": "active"
+      },
+      "stores": [
+        {
+          "storeId": "3",
+          "name": "ИП Chelsea",
+          "status": "active",
+          "kassa": "connected",
+          "qualityMetrics": {
+            "qualityRating": "4.8 ★",
+            "qualityPoints": "200 оценок",
+            "cancellationRate": "3.8%",
+            "cancellationLabel": "Доля отмен"
+          },
+          "deliveryOptions": ["Самовывоз", "Экспресс-доставка"]
+        }
+      ]
+    },
+    {
+      "userId": "3",
+      "user": {
+        "name": "Jane Smith",
+        "birthDate": "22.09.1990",
+        "age": 34,
+        "city": "Шымкент",
+        "status": "inactive"
+      },
+      "stores": [
+        {
+          "storeId": "4",
+          "name": "ИП Arsenal",
+          "status": "active",
+          "kassa": "connected",
+          "qualityMetrics": {
+            "qualityRating": "4.2 ★",
+            "qualityPoints": "180 оценок",
+            "cancellationRate": "4.0%",
+            "cancellationLabel": "Доля отмен"
+          },
+          "deliveryOptions": ["Самовывоз", "Моя доставка", "Экспресс-доставка"]
+        }
+      ]
+    }
+  ]
