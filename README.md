@@ -31,8 +31,12 @@ pnpm install
 
 pnpm dev
 ```
-Приложение будет доступно по адресу http://localhost:5173.
+Приложение будет доступно по адресу 
+http://localhost:5173.
 
+https://moonlit-treacle-bdd08c.netlify.app/1 
+
+https://github.com/Knm24/react-task-11042025/blob/main/src/assets/App.PNG
 
 # React + Vite
 
