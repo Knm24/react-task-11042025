@@ -36,7 +36,7 @@ http://localhost:5173.
 
 https://moonlit-treacle-bdd08c.netlify.app/1 
 
-https://github.com/Knm24/react-task-11042025/blob/main/src/assets/App.PNG
+![] (https://github.com/Knm24/react-task-11042025/blob/main/src/assets/App.PNG)
 
 # React + Vite
 
