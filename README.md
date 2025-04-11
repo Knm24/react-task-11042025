@@ -1,9 +1,9 @@
 
 # App
 
-Сслылка на проект https://moonlit-treacle-bdd08c.netlify.app/1 
+Сслылка на проект [https://moonlit-treacle-bdd08c.netlify.app/1 ](https://moonlit-treacle-bdd08c.netlify.app/)
 
-![Изображение] (https://github.com/Knm24/react-task-11042025/blob/main/src/assets/App.PNG)
+![Изображение] [https://github.com/Knm24/react-task-11042025/blob/main/src/assets/App.PNG]
 
 Одностраничное веб-приложение (SPA) для отображения информации о магазине, показателей качества, доставки и списка заказов.
 
